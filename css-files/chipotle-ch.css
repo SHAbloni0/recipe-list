@@ -16,3 +16,8 @@
     background-color: black;
     opacity: 0.9;
 }
+img{
+    border: 10px solid green;
+    height: 500px;
+    width: auto;
+}

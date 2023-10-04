@@ -14,3 +14,8 @@
     color: white;
     font-weight: bolder;
 }
+img{
+    height: 500px;
+    width: auto;
+    border: 10px solid green;
+}
