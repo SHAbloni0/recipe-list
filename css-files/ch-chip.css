@@ -1,0 +1,16 @@
+#body{
+    background-color: black;
+    background-image: url(../img/background-img.jpg);
+    background-size: cover;
+}
+#container{
+    display: flex;
+    flex-direction: row;
+}
+.fraction{
+    border: 20px solid yellow;
+    padding: 15px;
+    margin: 1px;
+    color: white;
+    font-weight: bolder;
+}
