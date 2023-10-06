@@ -13,6 +13,8 @@
     margin: 1px;
     color: white;
     font-weight: bolder;
+    background-color: black;
+    opacity: 0.9;
 }
 img{
     height: 500px;
